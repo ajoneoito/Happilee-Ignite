@@ -1,0 +1,16 @@
+export default {
+  TITLE: 'Filter Recipients',
+  FILTER: 'Filter by Parameters',
+  CREATE: 'CREATE NEW CONDITION',
+  BTN: 'Experience matches',
+  FILTERBY: 'Filter by Tags',
+  CREATECONDITION: 'Create New condition',
+  BTNTITLE: 'Create',
+  BROADCAST_TITLE: 'New Broadcast',
+  CSV: 'Import CSV',
+  RECENT: 'Recent Broadcasts',
+  NEW: 'Newest',
+  SELECT_PARAMS: 'Select Paramter',
+  CONDITION: 'Choose Condition',
+  VALUE: 'Value',
+};
